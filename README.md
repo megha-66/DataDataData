@@ -1,1 +1,1 @@
-Here, I have added a file names 'Matplotlib.ipynb" # DataVisualization
+Here, I have added a file named 'Matplotlib.ipynb" # DataVisualization
